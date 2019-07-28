@@ -1,3 +1,5 @@
+![Hangman](/assets/images/hangman.gif)
+
 # Hangman
 
 Try to guess the word before you run out of turns!
